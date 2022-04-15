@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brandynlearns
-- 👀 Currently studying ... Data Analytics
+- 👀 Learning Data Analytics
  
 
 <!---
