@@ -1,13 +1,12 @@
 # Webscraping 
 !pip install yfinance
 !pip install bs4
+
 import yfinance as yf
 import pandas as pd
-
 # beautifulsoup
 import requests
 from bs4 import BeautifulSoup
-
 # plotly
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
